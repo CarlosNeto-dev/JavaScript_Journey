@@ -7,10 +7,10 @@
  *
  */
 
-function responseToPrompt() {
+export function responseToPrompt() {
     // Pede para o usuário digitar o nome através do prompt.
 
-    window.prompt('Type your name: ')
+    window.prompt('Type your name: ') // Retorna sempre uma string.
 }
 
 responseToPrompt()

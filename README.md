@@ -2,15 +2,32 @@
 
 Bem-vindo ao repositório **JavaScript Journey**! Este projeto tem como objetivo documentar detalhadamente minha jornada de aprendizado na linguagem JavaScript.
 
-> **Nota de Atribuição:** O conteúdo pedagógico, a estrutura de aprendizado e os exercícios práticos contidos neste repositório são **fortemente influenciados** pelo material didático do Professor **Gustavo Guanabara**, através da plataforma **[Curso em Vídeo](https://www.cursoemvideo.com/)**. Todo o crédito pela metodologia de ensino vai para ele e sua equipe.
+*   **`JavaScript_Journey/`**: The root folder of the project.
+    *   **`learning_javascript/`**: The main folder containing all study materials.
+        *   **`01-introduction/`**: The first module of the journey.
+            *   **`theory/`**: Contains Markdown files (`.md`) with theoretical explanations (History, Standards, Basic Commands). 📚
+            *   **`examples/`**: Contains JavaScript files (`.js`) with practical code examples corresponding to the theory. 💻
+        *   **`playground/`**: This is the "Laboratory". It's where we test the codes, break things, and fix them to see how they work in the browser. 🧪
 
-## 📂 Estrutura do Repositório
+### 🛠️ Prerequisites & Installation
+To run the codes in this project, you will need a few tools:
 
-O projeto está organizado hierarquicamente para separar a teoria da prática:
+1.  **Node.js**: JavaScript runs in the browser, but to run it on your computer (and use modern tools), you need Node.js.
+    *   👉 [Download Node.js here](https://nodejs.org/) (Choose the LTS version).
+    *   To check if it's installed, open your terminal and type: `node -v`.
+2.  **IDE (Code Editor)**: I recommend **VS Code**, **WebStorm**, or **IntelliJ IDEA**.
 
-*   **`learning_javascript/`**: Diretório principal de aprendizado.
-    *   **`theoretical_content/`**: Contém anotações, resumos e conceitos teóricos.
-    *   **`exercises/`**: Contém a resolução de exercícios e desafios de código.
+### 🏃‍♂️ How to Run
+1.  Clone this repository:
+    ```bash
+    git clone https://github.com/your-username/JavaScript_Journey.git
+    ```
+2.  Navigate to the `playground` folder to test the codes in the browser by opening `index.html`.
+
+### 🙌 Credits
+*   **Inspiration:** This project follows the didactic path of the **Curso em Vídeo** by **Gustavo Guanabara**. 🎓
+*   **Curatorship & Structure:** Planned and organized by **Neto**.
+*   **Content:** Textual content generated/assisted by AI for completeness, validated by the author.
 
 ---
 
@@ -18,12 +35,22 @@ O projeto está organizado hierarquicamente para separar a teoria da prática:
 
 Welcome to the **JavaScript Journey** repository! This project aims to document in detail my learning journey in the JavaScript language.
 
-> **Attribution Note:** The pedagogical content, learning structure, and practical exercises contained in this repository are **strongly influenced** by the educational material of Professor **Gustavo Guanabara**, via the **Curso em Vídeo** platform. All credit for the teaching methodology goes to him and his team.
+### 🛠️ Pré-requisitos e Instalação
+Para rodar os códigos deste projeto, você precisará de algumas ferramentas:
 
-## 📂 Repository Structure
+1.  **Node.js**: O JavaScript roda no navegador, mas para rodar no seu computador (e usar ferramentas modernas), você precisa do Node.js.
+    *   👉 [Baixe o Node.js aqui](https://nodejs.org/) (Escolha a versão LTS).
+    *   Para verificar se instalou, abra seu terminal e digite: `node -v`.
+2.  **IDE (Editor de Código)**: Recomendo **VS Code**, **WebStorm** ou **IntelliJ IDEA**.
 
-The project is organized hierarchically to separate theory from practice:
+### 🏃‍♂️ Como Rodar
+1.  Clone este repositório:
+    ```bash
+    git clone https://github.com/seu-usuario/JavaScript_Journey.git
+    ```
+2.  Navegue até a pasta `playground` para testar os códigos no navegador abrindo o arquivo `index.html`.
 
-*   **`learning_javascript/`**: Main learning directory.
-    *   **`theoretical_content/`**: Contains notes, summaries, and theoretical concepts.
-    *   **`exercises/`**: Contains the resolution of exercises and coding challenges.
+### 🙌 Créditos
+*   **Inspiração:** Este projeto segue a trilha didática do **Curso em Vídeo** do professor **Gustavo Guanabara**. 🎓
+*   **Curadoria e Estrutura:** Planejado e organizado por **Neto**.
+*   **Conteúdo:** Conteúdo textual gerado/assistido por IA para completude, validado pelo autor.

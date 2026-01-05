@@ -7,7 +7,7 @@
  *
  */
 
-function showAQuestion() {
+export function showAQuestion() {
     // Exibe uma pergunta ao entrar no site.
 
     window.confirm('Do you like programing in JavaScript Language?')
