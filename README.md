@@ -1,13 +1,6 @@
-# 🚀 JavaScript Journey
+# 🇧🇷 🚀 JavaScript Journey
 
----
-
-## 🇺🇸 English Version
-
-Welcome to the **JavaScript Journey**! This repository documents my path to mastering JavaScript, from the very basics to advanced concepts. 🌟
-
-### 📂 Project Structure
-For those new to programming, here is how this project is organized:
+Bem-vindo ao repositório **JavaScript Journey**! Este projeto tem como objetivo documentar detalhadamente minha jornada de aprendizado na linguagem JavaScript.
 
 *   **`JavaScript_Journey/`**: The root folder of the project.
     *   **`learning_javascript/`**: The main folder containing all study materials.
@@ -38,19 +31,9 @@ To run the codes in this project, you will need a few tools:
 
 ---
 
-## 🇧🇷 Versão em Português
+# 🇺🇸 🚀 JavaScript Journey
 
-Bem-vindo à **JavaScript Journey** (Jornada JavaScript)! Este repositório documenta meu caminho para dominar o JavaScript, desde o básico absoluto até conceitos avançados. 🌟
-
-### 📂 Estrutura do Projeto
-Para quem é novo em programação, aqui está como este projeto está organizado:
-
-*   **`JavaScript_Journey/`**: A pasta raiz do projeto.
-    *   **`learning_javascript/`**: A pasta principal contendo todos os materiais de estudo.
-        *   **`01-introduction/`**: O primeiro módulo da jornada.
-            *   **`theory/`**: Contém arquivos Markdown (`.md`) com explicações teóricas (História, Padrões, Comandos Básicos). 📚
-            *   **`examples/`**: Contém arquivos JavaScript (`.js`) com exemplos práticos de código correspondentes à teoria. 💻
-        *   **`playground/`**: Este é o "Laboratório". É onde testamos os códigos, quebramos coisas e consertamos para ver como funcionam no navegador. 🧪
+Welcome to the **JavaScript Journey** repository! This project aims to document in detail my learning journey in the JavaScript language.
 
 ### 🛠️ Pré-requisitos e Instalação
 Para rodar os códigos deste projeto, você precisará de algumas ferramentas:
