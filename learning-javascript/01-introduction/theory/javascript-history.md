@@ -28,7 +28,7 @@ O resultado? **Caos total!** 🤯 Sites funcionavam em um navegador e quebravam 
 Para colocar ordem na casa, a Netscape levou a linguagem para a **ECMA International**.
 
 *   **⚖️ 1997:** Nasce o **ECMAScript (ES)**, o padrão oficial. JavaScript é a "marca", ECMAScript é a "lei".
-*   👉 **Quer saber mais sobre isso?** Confira o arquivo dedicado: [Padronização ECMAScript](./ecmascript_standardization.md).
+*   👉 **Quer saber mais sobre isso?** Confira o arquivo dedicado: [Padronização ECMAScript](ecmascript-standardization.md).
 
 ## 4. 🌑 A Era das Trevas & 🌟 O Renascimento (Anos 2000)
 

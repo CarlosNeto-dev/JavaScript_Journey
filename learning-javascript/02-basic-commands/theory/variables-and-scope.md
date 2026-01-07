@@ -53,6 +53,9 @@ For deeper knowledge, always check the **MDN Web Docs**:
 *   [MDN: let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
 *   [MDN: const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
 
+### 🐛 Found a Bug?
+If you find any error in the code or explanation, please **open an Issue** in this repository! Your feedback helps everyone learn.
+
 ---
 
 ### 🙌 Credits
@@ -112,6 +115,9 @@ Para um conhecimento mais profundo, consulte sempre o **MDN Web Docs**:
 *   [MDN: var](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/var)
 *   [MDN: let](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/let)
 *   [MDN: const](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/const)
+
+### 🐛 Encontrou um Bug?
+Se você encontrar qualquer erro no código ou na explicação, por favor **abra uma Issue** neste repositório! Seu feedback ajuda todos a aprenderem.
 
 ---
 
