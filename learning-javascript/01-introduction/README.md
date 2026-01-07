@@ -13,8 +13,8 @@ Welcome to the first module of the journey! Here we lay the foundation for every
 
 ### 📂 Structure
 *   **`theory/`**: Theoretical explanations.
-    *   `javascript_history.md`
-    *   `ecmascript_standardization.md`
+    *   `javascript-history.md`
+    *   `ecmascript-standardization.md`
     *   `window-alert.md`, `window-confirm.md`, `window-prompt.md`
 *   **`examples/`**: Practical code examples.
     *   `window-alert.js`, `window-confirm.js`, `window-prompt.js`
@@ -35,8 +35,8 @@ Bem-vindo ao primeiro módulo da jornada! Aqui construímos a base para tudo o q
 
 ### 📂 Estrutura
 *   **`theory/`**: Explicações teóricas.
-    *   `javascript_history.md`
-    *   `ecmascript_standardization.md`
+    *   `javascript-history.md`
+    *   `ecmascript-standardization.md`
     *   `window-alert.md`, `window-confirm.md`, `window-prompt.md`
 *   **`examples/`**: Exemplos práticos de código.
     *   `window-alert.js`, `window-confirm.js`, `window-prompt.js`
