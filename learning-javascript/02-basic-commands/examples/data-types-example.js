@@ -12,7 +12,7 @@
  */
 
 export function testingValuesTypes(value, expectedType) {
-    // Testando tipos de dados...
+    // Testando tipos de dados!
 
     if (typeof value !== expectedType) {
         console.log(`The value "${value}" is not the expected type "${expectedType}"!`)
