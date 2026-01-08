@@ -11,4 +11,4 @@
 //import '../02-basic-commands/examples/const-example.js';
 //import '../02-basic-commands/examples/data-types-example.js'
 //import '../02-basic-commands/examples/arithmetic-operation-example.js'
-import '../02-basic-commands/examples/ternary-operation-example.js'
+//import '../02-basic-commands/examples/ternary-operation-example.js'
