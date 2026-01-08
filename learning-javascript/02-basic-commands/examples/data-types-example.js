@@ -4,7 +4,6 @@
  * @function testingValuesTypes
  *
  * @param {any} value The value will be put.
- *
  * @param {string} expectedType The expected type of the value will be put. Ex: "string", "number", "object", "function"
  *
  * @returns {void}
