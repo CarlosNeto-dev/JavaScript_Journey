@@ -64,7 +64,7 @@ Aqui, a teoria encontra a prática. É um ambiente seguro projetado para você r
 
 #### 5. 🎥 Demo Completa
 *Um vídeo completo mostrando as funcionalidades do site e seu comportamento responsivo.*
-▶️ **[Veja a demo completa do site diretamente no Youtube](https://youtu.be/ICz9N9eiFtk)**
+▶️ **[Veja a demo completa do site diretamente no YouTube](https://youtu.be/ICz9N9eiFtk)**
 
 ### 🚀 Como Executar
 1.  **Clone o repositório** ou baixe o projeto.
