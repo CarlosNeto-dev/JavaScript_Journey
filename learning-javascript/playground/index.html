@@ -5,11 +5,49 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta description="JavaScript Playground">
 
+    <link rel="stylesheet" href="./style.css">
+
     <title>JavaScript Playground</title>
 </head>
 <body>
-    <h1>JavaScript Playground</h1>
+    <main class="container">
+        <h1>JavaScript Playground</h1>
 
-    <script type="module" src="./main.js"></script>
+        <p>Select a topic to run its examples</p>
+
+        <section class="cards">
+            <div class="card" data-action="variables">
+                <img src="assets/variables.svg" alt="Variables">
+
+                <h3>Variables</h3>
+
+                <p>var, let and const</p>
+            </div>
+
+            <div class="card" data-action="operators">
+               <img src="assets/operators.svg" alt="Operators">
+
+               <h3>Operators</h3>
+
+               <p>Arithmetic and Logic</p>
+            </div>
+
+            <div class="card" data-action="conditions">
+                <img src="assets/conditions.svg" alt="Conditions">
+
+                <h3>Conditions</h3>
+
+                <p>if, else and ternary</p>
+            </div>
+        </section>
+
+        <section class="output">
+            <h2>Output</h2>
+
+            <pre id="output"></pre>
+        </section>
+    </main>
+
+    <script type="module" src="main.js"></script>
 </body>
 </html>
