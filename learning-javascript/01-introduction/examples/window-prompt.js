@@ -14,6 +14,3 @@ export function responseToPrompt(message) {
 
     window.prompt(message) // Retorna sempre uma string.
 }
-
-
-responseToPrompt('Type your name:')

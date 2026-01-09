@@ -29,8 +29,6 @@ export function testingConst() {
 }
 
 
-testingConst()
-
 /**
  * Displays the result of scope "let"
  *
@@ -54,6 +52,3 @@ export function constScope() {
     console.log(secretMessage)
 
 }
-
-
-constScope()

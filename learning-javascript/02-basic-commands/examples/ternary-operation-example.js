@@ -25,6 +25,3 @@ export function displayAverageSituation() {
         window.alert(`Your situation is: ${situationResult}!`)
     }
 }
-
-
-displayAverageSituation()

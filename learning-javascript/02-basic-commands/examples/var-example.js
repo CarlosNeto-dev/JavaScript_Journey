@@ -44,6 +44,3 @@ export function varScope() {
 
     console.log(secretMessage)
 }
-
-
-varScope()

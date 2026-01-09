@@ -14,6 +14,3 @@ export function showMessageAlert(message) {
 
     window.alert(message);
 }
-
-
-showMessageAlert("Welcome to my website!");

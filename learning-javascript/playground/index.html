@@ -3,51 +3,62 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta description="JavaScript Playground">
+    <meta name="description" content="JavaScript Playground">
 
-    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="static/css/style.css">
 
     <title>JavaScript Playground</title>
 </head>
 <body>
     <main class="container">
-        <h1>JavaScript Playground</h1>
+        <header class="main-header">
+            <h1>JavaScript Playground</h1>
 
-        <p>Select a topic to run its examples</p>
+            <img src="static/assets/js-icon.png" alt="JavaScript Playground" class="logo-js">
+        </header>
+
+        <p class="subtitle">Topics Available</p>
 
         <section class="cards">
-            <div class="card" data-action="variables">
-                <img src="assets/variables.svg" alt="Variables">
-
+            <div class="card" data-example="variables">
                 <h3>Variables</h3>
 
-                <p>var, let and const</p>
+                <img src="static/assets/box.png" alt="Variables">
+
+                <p>Var, Let and Const</p>
             </div>
 
-            <div class="card" data-action="operators">
-               <img src="assets/operators.svg" alt="Operators">
-
+            <div class="card" data-example="operators">
                <h3>Operators</h3>
 
-               <p>Arithmetic and Logic</p>
+                <img src="static/assets/math-symbol.png" alt="Operators">
+
+               <p>Arithmetic, Logic, Relational, Attribution and Ternary</p>
             </div>
 
-            <div class="card" data-action="conditions">
-                <img src="assets/conditions.svg" alt="Conditions">
+            <div class="card" data-example="dataType">
+                <h3>Data Types</h3>
 
-                <h3>Conditions</h3>
+                <img src="static/assets/cards-icons.png" alt="Data Types">
 
-                <p>if, else and ternary</p>
+                <p>String, Number, Object, Function and boolean</p>
             </div>
         </section>
 
-        <section class="output">
-            <h2>Output</h2>
+        <div class="code-editor-interface">
+            <div class="code-display">
+                <span class="label">SOURCE CODE</span>
 
-            <pre id="output"></pre>
-        </section>
+                <pre id="code-view">// Select a topic above to see the code...</pre>
+            </div>
+
+            <section class="output">
+                <span class="label">CONSOLE</span>
+                <pre id="output" class="output-initial">Ready to run...</pre>
+            </section>
+        </div>
     </main>
 
-    <script type="module" src="main.js"></script>
+    <script type="module" src="static/js/main.js"></script>
 </body>
 </html>
