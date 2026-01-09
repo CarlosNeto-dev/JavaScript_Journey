@@ -4,40 +4,74 @@
 
 ## 🇺🇸 English Version
 
-Welcome to the **Playground**! This is the practical laboratory of the project. 🧪✨
+Welcome to the **Playground**! This is the interactive laboratory of our JavaScript journey. 🧪✨
 
-### 🎯 Purpose
-This folder is designed to be a safe environment where you can test, experiment, and run the JavaScript codes learned in the theoretical modules. It serves as the entry point to see the code in action within the browser.
+Here, theory meets practice. It's a safe environment designed for you to run, test, and visualize the concepts learned in the modules, from basic variables to complex logic, all within a friendly interface.
 
-### 📂 Structure
-*   **`index.html`**: The main HTML file that loads the JavaScript. Open this file in your browser to see the results. 🖥️
-*   **`main.js`**: The main script file. Here, we import and execute the modules we are studying from `../01-introduction/examples/`. 🚀
+### 📸 Preview & Demo
 
-### 🚀 How to Use
-1.  Open the `index.html` file in your preferred browser.
-2.  Edit the `main.js` file to import specific files from the `examples` folder of any module or to write your own test code.
-3.  Watch the magic happen in the browser console or on the screen!
+#### 1. 🏠 Home Screen
+*Overview of the Playground interface, showing the available topic cards.*
+![Home Screen Placeholder](static/assets/playground-image.png)
 
-### 🙌 Credits
-Inspired by **Curso em Vídeo (Gustavo Guanabara)**.
+#### 2. 📦 Variables Section
+*Demonstration of declaring and using `var`, `let`, and `const`.*
+![Variables Demo Placeholder](static/assets/playground-variables.png)
+
+#### 3. ➕ Operators in Action
+*Visualizing arithmetic and logical operations results.*
+![Operators Demo Placeholder](static/assets/playground-operators.png)
+
+#### 4. 🃏 Data Types
+*Testing Data Types values.*
+![Conditions Demo Placeholder](static/assets/playground-datatypes.png)
+
+#### 5. 🎥 Full Site Demo
+*A complete walkthrough of the site features and its responsive behavior.*
+▶️ **[Watch the full demo video on YouTube](https://youtu.be/ICz9N9eiFtk)**
+
+### 🚀 How to Run
+1.  **Clone the repo** or download the project.
+2.  Navigate to the `playground` folder.
+3.  Open `index.html` in your browser.
+4.  Click on the cards to execute the code examples!
 
 ---
 
 ## 🇧🇷 Versão em Português
 
-Bem-vindo ao **Playground**! Este é o laboratório prático do projeto. 🧪✨
+Bem-vindo ao **Playground**! Este é o laboratório interativo da nossa jornada JavaScript. 🧪✨
 
-### 🎯 Objetivo
-Esta pasta foi desenhada para ser um ambiente seguro onde você pode testar, experimentar e rodar os códigos JavaScript aprendidos nos módulos teóricos. Ela serve como o ponto de entrada para ver o código funcionando na prática dentro do navegador.
+Aqui, a teoria encontra a prática. É um ambiente seguro projetado para você rodar, testar e visualizar os conceitos aprendidos nos módulos, desde variáveis básicas até lógica complexa, tudo dentro de uma interface amigável.
 
-### 📂 Estrutura
-*   **`index.html`**: O arquivo HTML principal que carrega o JavaScript. Abra este arquivo no seu navegador para ver os resultados. 🖥️
-*   **`main.js`**: O arquivo de script principal. Aqui, importamos e executamos os módulos que estamos estudando de `../01-introduction/examples/`. 🚀
+### 📸 Visualização & Demo
 
-### 🚀 Como Usar
-1.  Abra o arquivo `index.html` no seu navegador preferido.
-2.  Edite o arquivo `main.js` para importar arquivos específicos da pasta `examples` de qualquer módulo ou para escrever seus próprios códigos de teste.
-3.  Veja a mágica acontecer no console do navegador ou na tela!
+#### 1. 🏠 Tela Inicial
+*Visão geral da interface do Playground, mostrando os cartões de tópicos disponíveis.*
+![Placeholder Tela Inicial](static/assets/playground-image.png)
 
-### 🙌 Créditos
-Inspirado no **Curso em Vídeo (Gustavo Guanabara)**.
+#### 2. 📦 Seção de Variáveis
+*Demonstração de declaração e uso de `var`, `let` e `const`.*
+![Placeholder Demo Variáveis](static/assets/playground-variables.png)
+
+#### 3. ➕ Operadores em Ação
+*Visualizando resultados de operações aritméticas e lógicas.*
+![Placeholder Demo Operadores](static/assets/playground-operators.png)
+
+#### 4. 🃏 Tipos de Dados
+*Testando diferentes tipos de dados.*
+![Placeholder Demo Condições](static/assets/playground-datatypes.png)
+
+#### 5. 🎥 Demo Completa
+*Um vídeo completo mostrando as funcionalidades do site e seu comportamento responsivo.*
+▶️ **[Veja a demo completa do site diretamente no Youtube](https://youtu.be/ICz9N9eiFtk)**
+
+### 🚀 Como Executar
+1.  **Clone o repositório** ou baixe o projeto.
+2.  Navegue até a pasta `playground`.
+3.  Abra o arquivo `index.html` no seu navegador.
+4.  Clique nos cartões para executar os exemplos de código!
+
+---
+
+> **🤖 Credits:** Most of the content was generated by AI, but the ideas and organization were done by me. The content was strongly influenced by **Gustavo Guanabara's Curso em Vídeo**.

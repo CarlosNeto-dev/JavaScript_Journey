@@ -22,12 +22,3 @@ export function testingValuesTypes(value, expectedType) {
     }
 
 }
-
-
-testingValuesTypes('Hello, World!', 'string')
-
-testingValuesTypes(NaN, 'number') // Valor especial
-
-testingValuesTypes([1, 2, 3], 'object')
-
-testingValuesTypes(function randomFunction() {}, 'function')

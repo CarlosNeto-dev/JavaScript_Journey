@@ -14,6 +14,3 @@ export function showMessageConfirm(message) {
 
     window.confirm(message)
 }
-
-
-showMessageConfirm('Do you like programing in JavaScript Language?')

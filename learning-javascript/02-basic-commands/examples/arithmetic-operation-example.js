@@ -76,13 +76,3 @@ export function basicArithmeticOperations(number1, sign, number2) {
 
     console.log(`The result of the operation is: ${result}!`)
 }
-
-basicArithmeticOperations(10, '+', 5)
-
-basicArithmeticOperations(10, '-', 2.5)
-
-basicArithmeticOperations(10, '@', 2)
-
-basicArithmeticOperations('10', '-', 8)
-
-basicArithmeticOperations(10, '/', 0)

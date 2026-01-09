@@ -47,6 +47,3 @@ export function letScope() {
 
     console.log(secretMessage)
 }
-
-
-letScope()
